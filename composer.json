@@ -1,0 +1,12 @@
+{
+    "name": "till/test-aws",
+    "require": {
+        "aws/aws-sdk-php": "2.4.*@dev"
+    },
+    "authors": [
+        {
+            "name": "till",
+            "email": "till@php.net"
+        }
+    ]
+}
